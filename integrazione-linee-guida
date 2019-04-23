@@ -609,17 +609,15 @@ Creare un repository su GitHub
 
 Per creare un nuovo repository su GitHub è necessario eseguire l'accesso 
 sulla piattaforma e selezionare la voce "New repository", selezionabile cliccando
-l'icona del profilo in alto a destra.
+l'icona del "+" affianco a quella del profilo in alto a destra.
 
 Il repository potrà essere nuovo e quindi vuoto, oppure potrà essere clonato da
 un repository già esistente, che prevede il trasferimento del link di tale repository
-nell'apposito spazio preceduto dalla dicitura "clone preexistent repository"
+nell'apposito spazio preceduto dalla dicitura "clone preexistent repository".
 
 Una volta creato, il repository potrà essere modificato, vi si potranno aggiungere progetti,
 issues, commits, branches e anche tags.
 
 Creare un repository su GitLab aziendale
-----------------------------------------
+========================================
 
-Su GitLab aziendale la procedura è similare. Basterà infatti selezionare la voce **"Crea Repository"**
-e la cartella verrà creata su
