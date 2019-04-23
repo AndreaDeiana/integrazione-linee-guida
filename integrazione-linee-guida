@@ -621,3 +621,7 @@ issues, commits, branches e anche tags.
 Creare un repository su GitLab aziendale
 ========================================
 
+La procedura di creazione di un repository su GitLab aziendale è similare.
+Basterà infatti creare un progetto attraverso la selezione del tasto apposito,
+conseguentemente creare una nuova cartella con il nome della repository che si vuole creare
+e clonare tale progetto all'interno della repository per inizializzarla.
