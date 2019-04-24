@@ -227,6 +227,29 @@ Questo comando, eseguito in ambiente locale, creerà una directory
 dati di progetto ed un file **.git** attraverso il quale si effettuerà
 il controllo dell’ultima versione scaricata.
 
+Creare un repository su GitHub
+==============================
+
+Per creare un nuovo repository su GitHub è necessario eseguire l'accesso 
+sulla piattaforma e selezionare la voce "New repository", selezionabile cliccando
+l'icona del "+" affianco a quella del profilo in alto a destra.
+
+Il repository potrà essere nuovo e quindi vuoto, oppure potrà essere clonato da
+un repository già esistente, che prevede il trasferimento del link di tale repository
+nell'apposito spazio preceduto dalla dicitura "clone preexistent repository".
+
+Una volta creato, il repository potrà essere modificato, vi si potranno aggiungere progetti,
+issues, commits, branches e anche tags.
+
+Creare un repository su GitLab aziendale
+========================================
+
+La procedura di creazione di un repository su GitLab aziendale è similare.
+Basterà infatti creare un progetto attraverso la selezione del tasto apposito,
+conseguentemente creare una nuova cartella con il nome della repository che si vuole creare
+e clonare tale progetto all'interno della repository per inizializzarla.
+
+
 **Clone in una directory diversa**
 ----------------------------------
 
@@ -603,25 +626,3 @@ https://www.01net.it/sette-consigli-git-github/
 .. |image13| image:: ./media/image14.png
    :width: 2.93841in
    :height: 1in
-
-Creare un repository su GitHub
-==============================
-
-Per creare un nuovo repository su GitHub è necessario eseguire l'accesso 
-sulla piattaforma e selezionare la voce "New repository", selezionabile cliccando
-l'icona del "+" affianco a quella del profilo in alto a destra.
-
-Il repository potrà essere nuovo e quindi vuoto, oppure potrà essere clonato da
-un repository già esistente, che prevede il trasferimento del link di tale repository
-nell'apposito spazio preceduto dalla dicitura "clone preexistent repository".
-
-Una volta creato, il repository potrà essere modificato, vi si potranno aggiungere progetti,
-issues, commits, branches e anche tags.
-
-Creare un repository su GitLab aziendale
-========================================
-
-La procedura di creazione di un repository su GitLab aziendale è similare.
-Basterà infatti creare un progetto attraverso la selezione del tasto apposito,
-conseguentemente creare una nuova cartella con il nome della repository che si vuole creare
-e clonare tale progetto all'interno della repository per inizializzarla.
